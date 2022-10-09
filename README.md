@@ -1,3 +1,5 @@
+[Buse Tozlu www.patika.dev.com profil linkim](https://app.patika.dev/bstzlu)
+
 # Veri Yapıları ve Algoritmalar Proje 1
 ## [22,27,16,2,18,6] Insertion Sort
 
